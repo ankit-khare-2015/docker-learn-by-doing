@@ -111,7 +111,7 @@ Dockerfile  --->  Image  --->  Container
 
 ---
 
-## Closing Note
+## Some quick notes 
 
-This project is a beginner-friendly foundation.  
+This project is a beginner-friendly and help with basic setup and commands.  
 Experiment, try commands, and once you are comfortable, move on to more advanced Docker and data/AI use cases.
