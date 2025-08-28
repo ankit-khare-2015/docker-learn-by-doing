@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    container_name: docker-basics-app
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_MESSAGE=Hello from Compose 🎯
+    volumes:
+      - ./data:/app/data
